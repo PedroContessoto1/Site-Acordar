@@ -8,8 +8,6 @@ module.exports = {
   basePath: '/Site-Acordar',
   assetPrefix: '/Site-Acordar/',
   trailingSlash: true,
-  // Adicione esta linha para configurar a pasta de saída.
-  outDir: 'docs',
 }
 
 module.exports = nextConfig
