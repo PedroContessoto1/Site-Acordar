@@ -1,2 +1,3 @@
 # Arquivos e pastas ignorados
 node_modules/
+.next/
